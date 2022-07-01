@@ -1,0 +1,12 @@
+{
+  "_cts": {
+    "ig-news-post": {
+      "Title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  }
+}

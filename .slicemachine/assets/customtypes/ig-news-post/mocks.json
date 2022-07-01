@@ -1,0 +1,21 @@
+{
+  "id": "e1bcc27f-0bcf-4caf-8a69-91d0c83d4161",
+  "uid": "beatae-quasi-voluptatem",
+  "type": "ig-news-post",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Scale cross-platform eyeballs",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Quis fugiat ea id veniam qui mollit mollit.",
+        "spans": []
+      }
+    ]
+  }
+}
